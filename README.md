@@ -53,3 +53,4 @@ The shell script can be written on a note pad, before copying and paste into the
 **Run the script :**
 
 `sudo ./script_task.sh`
+
