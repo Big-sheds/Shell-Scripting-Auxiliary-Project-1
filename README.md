@@ -27,3 +27,29 @@
 9. Convert a temperature in Celsius to Fahrenheit, using input from the user.
 
 10. Ask the user for a sentence, then output the sentence in reverse order. For example, if the user enters “Hello, world!”, the script should output “!dlrow ,olleH”.
+
+**Create the project folder called Shell**
+
+`mkdir Shell`
+
+**Move into the Shell folder**
+
+`cd Shell`
+
+**In the Shell directory, create a file for your Shell script named “script_task.sh”**
+
+`touch script_task.sh`
+
+**Copy/write your Shell script into the *”script_task.sh” file using vim editor.**
+
+`vi script_task.sh`
+
+The shell script can be written on a note pad, before copying and paste into the “script_task.sh” file.
+
+**Make the script file executable:**
+
+`chmod +x script_task.sh`
+
+**Run the script :**
+
+`sudo ./script_task.sh`
