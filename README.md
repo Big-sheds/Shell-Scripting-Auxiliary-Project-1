@@ -40,7 +40,7 @@
 
 `touch script_task.sh`
 
-**Copy/write your Shell script into the *”script_task.sh” file using vim editor.**
+**Copy/write your Shell script into the ”script_task.sh” file using vim editor.**
 
 `vi script_task.sh`
 
